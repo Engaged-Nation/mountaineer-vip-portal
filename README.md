@@ -1,4 +1,4 @@
-# Tonkawa Vip Reach Portal
+# Mountaineer Vip Reach Portal
 
 This is the black template for Reach products.
 
@@ -6,14 +6,14 @@ This is the black template for Reach products.
 
 ### Login to the Front End
 ```
-URL: tonkawa-vip.localhost.en/
+URL: mountaineer-vip.localhost.en/
 UN: test@test.com
 PW: testing
 ```
 
 ### Login to the Admin
 ```
-URL: tonkawa-vip-portal.localhost.en/administrator
+URL: mountaineer-vip-portal.localhost.en/administrator
 UN: testing
 PW: testing
 ```
