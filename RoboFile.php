@@ -2,13 +2,13 @@
 /**
  * Contains RoboFile
  *
- * @package tonkawa-vip
+ * @package mountaineer-vip
  */
 
 /**
  * @author Joshua Copeland <josh@engagednation.com>
  * @author Matthew Kosolofski <matthew.kosolofski@engagednation.com>
- * @package tonkawa-vip
+ * @package mountaineer-vip
  */
 class RoboFile extends \Robo\Tasks
 {
